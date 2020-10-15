@@ -1,3 +1,7 @@
+
+
+
+
 package com.coveros.demo.helloworld;
 
 import java.time.LocalDateTime;
@@ -11,5 +15,6 @@ public class HelloWorld {
 
     System.out.println("Hello, World! The current time is " + dtf.format(now));
   }
+	public void mi(){
 
 }
